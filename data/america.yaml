@@ -492,3 +492,10 @@
    link: https://www.metamorphsoftware.com/
    address: MetaMorph Inc., 49 Music Square West, Suite 210, Nashville, TN 37203
    description: MetaMorph Inc. builds multi-domain engineering tools for the design and analysis of complex systems.
+ - name: CIPEC, Universidade Estadual do Sudoeste da Bahia - UESB
+   type: school
+   lat: -14.888095
+   long: -40.802741
+   link: http://www2.uesb.br/computacao/
+   address: Universidade Estadual do Sudoeste da Bahia. Estrada do Bem-querer, km 04- Bairro Universitário, Vitória da Conquista – BA
+   description: Using fuzzy logic in the ROS, in order to write more comprehensive algorithms in the detection of obstacles.
